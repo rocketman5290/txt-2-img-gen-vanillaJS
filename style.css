@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik+Glitch&family=Rubik+Microbe&display=swap');
 body {
   background-color: #1f1f20;
-  color: rgb(230, 138, 138);
+  color: rgb(204, 150, 150);
   font-family: 'Poppins', sans-serif;
   margin-top: 30px;
 }
@@ -39,6 +39,7 @@ form {
 }
 
 textarea {
+  background-color: rgb(187, 187, 169);
   width: 100%;
   height: 100px;
   margin: 10px 0;
@@ -49,7 +50,7 @@ textarea {
 button {
   width: 100%;
   height: 50px;
-  background-color: #1b1b1e;
+  background-color: #494964;
   color: white;
   border: none;
   border-radius: 5px;
